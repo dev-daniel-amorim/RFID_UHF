@@ -27,9 +27,9 @@ Pensando nisto, criei um leitor RFID de longa distancia com frequencia ajustavel
 Iniciei com o protótipo, que foi evoluindo ao longo do tempo, tanto em nível de funcionalidades como melhorias nas caixas plasticas e inclusão de bateria interna, sem a necessidade de cabos, abaixo imagens do protótipo (à esquerda), prototipo melhorado (centro) e do dispositivo final (à direita):
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8b3e883-8464-4438-bf54-e141743517d2" width="33%" />
-  <img src="https://github.com/user-attachments/assets/2c2344e8-748a-4913-b262-9bd2a68a4a77" width="33%" />
-  <img src="https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d" width="25%" />
+  <img src="https://github.com/user-attachments/assets/39e22bfb-cbac-472f-bc9c-da1acbf79717" width="33%" />
+  <img src="https://github.com/user-attachments/assets/d6428f6f-9432-44b0-b9b0-5297b8dc46d9" width="33%" />
+  <img src="https://github.com/user-attachments/assets/111475e9-145a-454b-9644-10bf154d9b65" width="25%" />
 </p>
 
 ## Desenvolvimento do Schema elétrico e circuito impresso
@@ -37,21 +37,16 @@ Iniciei com o protótipo, que foi evoluindo ao longo do tempo, tanto em nível d
 O schema eletrico foi desenhado no Kicad versão 7.0.6 release build, onde foi desenhado toda conexão necessária para integração do ESP32-DEVKIT-32UE com a placa de leitura RFID, antena UHF, buzzer de status, displays, botões e bateria:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d225504-22a8-4410-9829-e06c738475c7" width="50%" />
+  <img src="https://github.com/user-attachments/assets/4df8bd6f-6ec1-4e04-9b5f-9289ef4ffadc" width="50%" />
 </p>
 <br>
 
 Com o Schema em mãos, desenhei também no kicad o circuito impresso para montagem da parte eletrônica:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bac43382-3146-4643-8a90-f2bc3aa7980b" width="33%" />
+  <img src="https://github.com/user-attachments/assets/90b7030c-3283-43b6-b2d0-b4ea6870e5bc" width="33%" />
 </p>
 <br>
-
-
-
-
-
 
 <br>
 <hr>
