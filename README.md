@@ -57,7 +57,7 @@ Frequências: Ler etiquetas RFID com frequências de 865-868Mhz (Europa) e 902-9
 </p>
 <br>
 
-Velocidade de leitura: Pessue três velocidades de leitura/segundo (quanto maior menos sensível);<br>
+Velocidade de leitura: Possui três velocidades de leitura/segundo (quanto maior menos sensível);<br>
 <br>
 
 Sensitividade: Potência de Recepção (Receive Sensitivity), o leitor permite ajustar a sensibilidade do receptor (quanto sinal ele consegue captar), são duas opções Dense reader e High sensitivity.<br>
