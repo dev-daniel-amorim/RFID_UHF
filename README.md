@@ -53,7 +53,7 @@ Com o Schema em mãos, desenhei também no kicad o circuito impresso para montag
 Ler etiquetas RFID com frequências de 865-868Mhz (Europa) e 902-928Mhz (América) com 3dbi UHF (1 a 1.5 metros para leitura) ajustável através de software administrativo:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a751fac-c8b0-426b-9caf-859b7a8e2b8c" width="70%" />
+  <img src="https://github.com/user-attachments/assets/9a751fac-c8b0-426b-9caf-859b" width="70%" />
 </p>
 <br>
 
