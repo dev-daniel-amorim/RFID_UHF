@@ -50,14 +50,14 @@ Com o Schema em mãos, desenhei também no kicad o circuito impresso para montag
 
 ## Funções no leitor RFID
 
-Ler etiquetas RFID com frequências de 865-868Mhz (Europa) e 902-928Mhz (América) com 3dbi UHF (1 a 1.5 metros para leitura) ajustável através de software administrativo:
+Frequências: Ler etiquetas RFID com frequências de 865-868Mhz (Europa) e 902-928Mhz (América) com 3dbi UHF (1 a 1.5 metros para leitura) ajustável através de software administrativo:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a751fac-c8b0-426b-9caf-859b" width="70%" />
+  <img src="https://github.com/user-attachments/assets/3e854fd6-44f0-4640-859f-7489e05508be" width="70%" />
 </p>
 <br>
 
-Velocidade de leitura: 3 velocidades medidos por segundos (quanto maior menos sensível);<br>
+Velocidade de leitura: Pessue três velocidades de leitura/segundo (quanto maior menos sensível);<br>
 <br>
 
 Sensitividade: Potência de Recepção (Receive Sensitivity), o leitor permite ajustar a sensibilidade do receptor (quanto sinal ele consegue captar), são duas opções Dense reader e High sensitivity.<br>
@@ -80,10 +80,10 @@ Power setting: Define quanta energia (em dBm) o leitor envia para a antena.<br>
 HOST e URL: Para configurações de REDE, permitindo comunicação com aplicativos usando RESTful services, enviando de recebendo dados via POST e GET.<br>
 <br>
 
-Comunicação via WIFI: cada leitor RFID Cria seu proprio Web Services automáticamente para configuração de WIFI próximas caso não consiga conexão com alguma rede WIFI já configurada.<br>
+Comunicação via WIFI: Cada leitor RFID Cria seu proprio Web Services automáticamente para configuração de WIFI próximas caso não consiga conexão com alguma rede WIFI já configurada.<br>
 <br>
 
-Atialização de sistema via OTA (Over-The-Air), processo que permite enviar novo firmware para o dispositivo pela rede Wi-Fi, sem a necessidade de conexão física via cabo USB.<br>
+Atualização de sistema: Via OTA (Over-The-Air), processo que permite enviar novo firmware para o dispositivo pela rede Wi-Fi, sem a necessidade de conexão física via cabo USB.<br>
 <br>
 
 
